@@ -5,7 +5,7 @@ author: Jun
 date: '2019-07-09 19:35:23 +0830'
 category: web-development
 summary: 1st Day
-thumbnail: posts/1st.jpg
+thumbnail: posts/1st.JPG
 ---
 
 Hi Hello
