@@ -2,7 +2,7 @@
 layout: post
 title: 1st Day
 author: Jun
-date: '2019-07-09 19:35:23 +0530'
+date: '2019-07-09 19:35:23 +0830'
 category: web-development
 summary: 1st Day
 thumbnail: posts/1st.jpg
