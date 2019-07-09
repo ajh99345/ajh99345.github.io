@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 1st Day
+title: 모각코 첫째날
 author: Jun
 date: '2019-07-09 19:35:23 +0830'
 category: web-development
-summary: 1st Day
+summary: 블로그 만드는법
 thumbnail: posts/1st.JPG
 ---
 
-Hi Hello
+모각코 첫쨰날은 앞으로 올릴 블로그를 위해 지킬로 블로그를 만들어 사용하는 법을 공부하였다.
