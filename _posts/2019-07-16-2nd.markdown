@@ -4,8 +4,8 @@ title: 모각코 둘째날
 author: Jun
 date: '2019-07-16 19:35:23 +0830'
 category: web-development
-summary: 웹페이즈 만들기
-thumbnail: posts/2nd.JPG
+summary: 웹페이지 만들기
+thumbnail: posts/2nd.jpg
 ---
 
 지킬로 블로그를 만드는 것보다 내가 직접 블로그를 만들고 싶어서 웹공부를 시작하였다.
