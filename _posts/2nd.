@@ -1,0 +1,14 @@
+---
+layout: post
+title: 모각코 둘째날
+author: Jun
+date: '2019-07-16 19:35:23 +0830'
+category: web-development
+summary: 웹페이즈 만들기
+thumbnail: posts/1st.JPG
+---
+
+지킬로 블로그를 만드는 것보다 내가 직접 블로그를 만들고 싶어서 웹공부를 시작하였다.
+좀더 자세한 사항은 좀 더 배우고 난 뒤 나만의 블로그를 만들고 올릴것이다.
+오늘한 웹공부는 웹사이트하나를 만들어 보는 것이었는데 그 웹사이트를 만드는데 <!doctype html>로 문서형을 정의해주고
+<html>, <head>, <body>, <ol>, <li>, <h1>, <p>, <strong> <u> <img> 태그를 사용하였다.
