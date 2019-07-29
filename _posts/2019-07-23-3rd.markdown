@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 모각코 째날
+title: 모각코 셋째날
 author: Jun
 date: '2019-07-23 20:35:23 +0830'
 category: web-development
