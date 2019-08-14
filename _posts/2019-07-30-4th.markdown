@@ -5,7 +5,7 @@ author: Jun
 date: '2019-07-30 18:23:24 +0830'
 category: web-development
 summary: CSS
-thumbnail: posts/3rd.jpg
+thumbnail: posts/4th.jpg
 ---
 
 CSS를 이용하여 글자크기,색깔변경 및 밑줄생성을 해보았다.
