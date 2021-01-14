@@ -5,7 +5,7 @@ author: Jun
 date: '2021-01-07 20:12:21 +09'
 category: baekjoon
 summary: algorithm
-thumbnail: posts/20동계-2.JPG
+thumbnail: posts/20동계-2.png
 ---
 
 백준 16401번
