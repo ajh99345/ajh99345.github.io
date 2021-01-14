@@ -1,0 +1,11 @@
+---
+layout: post
+title: 모각코 2021년 동계 네번째날
+author: Jun
+date: '2021-01-14 14:23:28 +09'
+category: baekjoon
+summary: algorithm
+thumbnail: posts/20동계-4.JPG
+---
+
+백준 2003번, 2018번
