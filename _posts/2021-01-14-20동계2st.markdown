@@ -1,0 +1,11 @@
+---
+layout: post
+title: 모각코 2021년 동계 세번째날
+author: Jun
+date: '2021-01-12 20:27:13 +09'
+category: baekjoon
+summary: algorithm
+thumbnail: posts/20동계-3.png
+---
+
+백준 3273번
