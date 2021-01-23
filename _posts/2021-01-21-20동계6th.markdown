@@ -8,4 +8,4 @@ summary: algorithm
 thumbnail: posts/20동계-6.JPG
 ---
 
-백준 2003번, 2018번
+자료구조 정리
