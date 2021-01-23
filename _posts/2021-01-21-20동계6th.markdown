@@ -1,0 +1,11 @@
+---
+layout: post
+title: 모각코 2021년 동계 여섯번째날
+author: Jun
+date: '2021-01-21 15:31:27 +09'
+category: baekjoon
+summary: algorithm
+thumbnail: posts/20동계-6.JPG
+---
+
+백준 2003번, 2018번
