@@ -8,4 +8,4 @@ summary: algorithm
 thumbnail: posts/20동계-5.JPG
 ---
 
-solved.ac class 2
+solved.ac에 class라는 것이 있길래 class 2를 정복하자는 마음으로 풀어보았습니다.
