@@ -8,4 +8,4 @@ summary: algorithm
 thumbnail: posts/20동계-6.JPG
 ---
 
-자료구조 정리
+자료구조 덱, 큐, 스택의 기본문제를 풀어보았습니다.
