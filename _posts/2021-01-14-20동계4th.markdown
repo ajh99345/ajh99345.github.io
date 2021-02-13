@@ -8,4 +8,6 @@ summary: algorithm
 thumbnail: posts/20동계-4.JPG
 ---
 
+두 포인터 문제가 재밌어서 네번째날도 2개를 더 풀어보았습니다.
+
 백준 2003번, 2018번
